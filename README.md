@@ -1,4 +1,4 @@
-# Cross-city pretraining for incident-level crime prediction under short histories
+# When does cross-city transfer help? A three-city benchmark for incident-level crime prediction under short local histories
 
 Code and results for the paper "When does cross-city transfer help? A three-city benchmark for incident-level crime prediction under short local histories".
 
